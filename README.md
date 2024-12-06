@@ -20,8 +20,8 @@ The repo is organized day-wise, with each day's solution contained in its own di
 
 | Day | Challenge | Solution |
 | --- | --------- | -------- |
-| 1   | [Day 1 Challenge](./day01/README.md) | [solution.py](./day01/day1.py) |
-| 2   | [Day 2 Challenge](./day02/README.md) | [solution.py](./day02/day2.py) |
+| 1   | [Day 1 Challenge](https://adventofcode.com/2024/day/1) | [solution.py](./day01/day1.py) |
+| 2   | [Day 2 Challenge](https://adventofcode.com/2024/day/2) | [solution.py](./day02/day2.py) |
 
 and so on...
 
