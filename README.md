@@ -1,5 +1,5 @@
-![](https://img.shields.io/badge/stars%20⭐-12-yellow)
-![](https://img.shields.io/badge/days%20completed-6-blue)
+![](https://img.shields.io/badge/stars%20⭐-16-yellow)
+![](https://img.shields.io/badge/days%20completed-8-blue)
 
 # Advent of Code 2024
 
@@ -22,6 +22,12 @@ The repo is organized day-wise, with each day's solution contained in its own di
 | --- | --------- | -------- |
 | 1   | [Day 1 Challenge](https://adventofcode.com/2024/day/1) | [solution.py](./day01/day1.py) |
 | 2   | [Day 2 Challenge](https://adventofcode.com/2024/day/2) | [solution.py](./day02/day2.py) |
+| 3   | [Day 3 Challenge](https://adventofcode.com/2024/day/3) | [solution.py](./day03/day3.py) |
+| 4   | [Day 4 Challenge](https://adventofcode.com/2024/day/4) | [solution.py](./day04/day4.py) |
+| 5   | [Day 5 Challenge](https://adventofcode.com/2024/day/5) | [solution.py](./day05/day5.py) |
+| 6   | [Day 6 Challenge](https://adventofcode.com/2024/day/6) | [solution.py](./day06/day6.py) |
+| 7   | [Day 6 Challenge](https://adventofcode.com/2024/day/7) | [solution.py](./day06/day7.py) |
+| 8   | [Day 6 Challenge](https://adventofcode.com/2024/day/8) | [solution.py](./day06/day8.py) |
 
 and so on...
 
