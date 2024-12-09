@@ -49,37 +49,41 @@ Feel free to fork this repository and submit pull requests if you have improveme
 ## Advent of Code Stats
 
 <!-- AOC-STATS-START -->
-Chirag Karthik p: 0 points
-LOKAVEERASHESHASAITEJA GANTASALA: 0 points
-KANISHK GORANA: 0 points
-None: 21 points
-Sambhav: 511 points
-VENKATASAIPRANAV MOPARTHI: 0 points
-Revanth Kumar Dompaka: 468 points
-Pranjal Srivastava: 0 points
-None: 0 points
-Palenzo: 95 points
-GOKULCHINNA PAKALAPATI: 0 points
-None: 242 points
-None: 0 points
-r2d2butbetter: 493 points
-NISHANTH REDDY R: 0 points
-Mohansashank Prayaga: 0 points
-None: 109 points
-Ritovan03: 189 points
-InventedSarawak: 141 points
-DHRUV SUNILKUMAR PATEL: 284 points
-None: 85 points
-None: 81 points
-Gaurav Gautam: 563 points
-Nooberd-Incompat: 140 points
-RITHVIK RAO GANDRA: 17 points
-Sundar R: 0 points
-Aahnik Daw: 0 points
-yennam koushikreddy: 102 points
-SREEKAR KOTHAPALLI: 22 points
-None: 147 points
-Anchal: 80 points
-Vanya Awasthi : 135 points
+## Advent of Code Stats
+
+| Rank | Name | Stars | Points |
+|------|------|-------|--------|
+| 1 | Gaurav Gautam | 18 | 563 |
+| 2 | r2d2butbetter | 18 | 493 |
+| 3 | Sambhav | 17 | 511 |
+| 4 | Revanth Kumar Dompaka | 16 | 468 |
+| 5 | DHRUV SUNILKUMAR PATEL | 12 | 284 |
+| 6 | Anonymous | 10 | 242 |
+| 7 | Ritovan03 | 7 | 189 |
+| 8 | Nooberd-Incompat | 6 | 140 |
+| 9 | Vanya Awasthi  | 6 | 135 |
+| 10 | Anonymous | 5 | 147 |
+| 11 | InventedSarawak | 5 | 141 |
+| 12 | Anonymous | 5 | 85 |
+| 13 | Anonymous | 4 | 109 |
+| 14 | yennam koushikreddy | 4 | 102 |
+| 15 | Palenzo | 4 | 95 |
+| 16 | Anonymous | 4 | 81 |
+| 17 | Anchal | 4 | 80 |
+| 18 | SREEKAR KOTHAPALLI | 1 | 22 |
+| 19 | Anonymous | 1 | 21 |
+| 20 | RITHVIK RAO GANDRA | 1 | 17 |
+| 21 | LOKAVEERASHESHASAITEJA GANTASALA | 0 | 0 |
+| 22 | Chirag Karthik p | 0 | 0 |
+| 23 | KANISHK GORANA | 0 | 0 |
+| 24 | VENKATASAIPRANAV MOPARTHI | 0 | 0 |
+| 25 | Sundar R | 0 | 0 |
+| 26 | NISHANTH REDDY R | 0 | 0 |
+| 27 | Anonymous | 0 | 0 |
+| 28 | Mohansashank Prayaga | 0 | 0 |
+| 29 | GOKULCHINNA PAKALAPATI | 0 | 0 |
+| 30 | Pranjal Srivastava | 0 | 0 |
+| 31 | Anonymous | 0 | 0 |
+| 32 | Aahnik Daw | 0 | 0 |
 <!-- AOC-STATS-END -->
 
