@@ -49,5 +49,37 @@ Feel free to fork this repository and submit pull requests if you have improveme
 ## Advent of Code Stats
 
 <!-- AOC-STATS-START -->
+Chirag Karthik p: 0 points
+None: 147 points
+Gaurav Gautam: 563 points
+Vanya Awasthi : 135 points
+Palenzo: 95 points
+Pranjal Srivastava: 0 points
+None: 0 points
+Nooberd-Incompat: 140 points
+Mohansashank Prayaga: 0 points
+None: 21 points
+NISHANTH REDDY R: 0 points
+DHRUV SUNILKUMAR PATEL: 284 points
+KANISHK GORANA: 0 points
+Sundar R: 0 points
+LOKAVEERASHESHASAITEJA GANTASALA: 0 points
+Ritovan03: 189 points
+yennam koushikreddy: 102 points
+None: 81 points
+InventedSarawak: 141 points
+VENKATASAIPRANAV MOPARTHI: 0 points
+SREEKAR KOTHAPALLI: 22 points
+None: 109 points
+None: 0 points
+None: 242 points
+RITHVIK RAO GANDRA: 17 points
+Anchal: 80 points
+None: 85 points
+Aahnik Daw: 0 points
+GOKULCHINNA PAKALAPATI: 0 points
+Sambhav: 511 points
+r2d2butbetter: 493 points
+Revanth Kumar Dompaka: 468 points
 <!-- AOC-STATS-END -->
 
