@@ -42,6 +42,12 @@ python dayXX/solution.py
 Replace `XX` with the day number you want to run.
 
 ## Contributing
-
 Feel free to fork this repository and submit pull requests if you have improvements or alternative solutions. Contributions are always welcome!
+
+## Stats from our college leaderboard
+
+## Advent of Code Stats
+
+<!-- AOC-STATS-START -->
+<!-- AOC-STATS-END -->
 
