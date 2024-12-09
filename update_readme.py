@@ -18,9 +18,20 @@ else:
     exit(1)
 
 # Format the leaderboard data for the README file
-leaderboard_stats = ""
-for member in leaderboard_data['members'].values():
-    leaderboard_stats += f"{member['name']}: {member['local_score']} points\n"
+members = leaderboard_data['members'].values()
+sorted_members = sorted(members, key=lambda x: (-x['stars'], -x['local_score']))
+
+leaderboard_stats = "## Advent of Code Stats\n\n"
+leaderboard_stats += "| Rank | Name | Stars | Points |\n"
+leaderboard_stats += "|------|------|-------|--------|\n"
+
+rank = 1
+for member in sorted_members:
+    name = member['name'] or "Anonymous"
+    stars = member['stars']
+    points = member['local_score']
+    leaderboard_stats += f"| {rank} | {name} | {stars} | {points} |\n"
+    rank += 1
 
 # Update the README file
 with open("README.md", "r") as readme_file:
