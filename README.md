@@ -61,26 +61,26 @@ Feel free to fork this repository and submit pull requests if you have improveme
 | 9 | Vanya Awasthi  | 6 | 135 |
 | 10 | Anonymous | 5 | 147 |
 | 11 | InventedSarawak | 5 | 141 |
-| 12 | Anonymous | 5 | 85 |
-| 13 | Anonymous | 4 | 109 |
-| 14 | yennam koushikreddy | 4 | 102 |
-| 15 | Palenzo | 4 | 95 |
-| 16 | Anonymous | 4 | 81 |
-| 17 | Anchal | 4 | 80 |
+| 12 | Anchal | 5 | 108 |
+| 13 | Anonymous | 5 | 85 |
+| 14 | Anonymous | 4 | 109 |
+| 15 | yennam koushikreddy | 4 | 102 |
+| 16 | Palenzo | 4 | 95 |
+| 17 | Anonymous | 4 | 81 |
 | 18 | SREEKAR KOTHAPALLI | 1 | 22 |
 | 19 | Anonymous | 1 | 21 |
 | 20 | RITHVIK RAO GANDRA | 1 | 17 |
-| 21 | Pranjal Srivastava | 0 | 0 |
-| 22 | Anonymous | 0 | 0 |
-| 23 | Aahnik Daw | 0 | 0 |
-| 24 | Mohansashank Prayaga | 0 | 0 |
-| 25 | GOKULCHINNA PAKALAPATI | 0 | 0 |
-| 26 | VENKATASAIPRANAV MOPARTHI | 0 | 0 |
-| 27 | Anonymous | 0 | 0 |
-| 28 | NISHANTH REDDY R | 0 | 0 |
-| 29 | Sundar R | 0 | 0 |
+| 21 | NISHANTH REDDY R | 0 | 0 |
+| 22 | VENKATASAIPRANAV MOPARTHI | 0 | 0 |
+| 23 | Anonymous | 0 | 0 |
+| 24 | KANISHK GORANA | 0 | 0 |
+| 25 | Pranjal Srivastava | 0 | 0 |
+| 26 | GOKULCHINNA PAKALAPATI | 0 | 0 |
+| 27 | Chirag Karthik p | 0 | 0 |
+| 28 | Sundar R | 0 | 0 |
+| 29 | Anonymous | 0 | 0 |
 | 30 | LOKAVEERASHESHASAITEJA GANTASALA | 0 | 0 |
-| 31 | KANISHK GORANA | 0 | 0 |
-| 32 | Chirag Karthik p | 0 | 0 |
+| 31 | Mohansashank Prayaga | 0 | 0 |
+| 32 | Aahnik Daw | 0 | 0 |
 <!-- AOC-STATS-END -->
 
