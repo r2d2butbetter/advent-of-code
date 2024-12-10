@@ -1,6 +1,3 @@
-![](https://img.shields.io/badge/stars%20⭐-16-yellow)
-![](https://img.shields.io/badge/days%20completed-8-blue)
-
 # Advent of Code 2024
 
 Welcome to my solutions for the Advent of Code 2024! This repository contains my personal solutions to the coding challenges presented in the Advent of Code event for the year 2024.
