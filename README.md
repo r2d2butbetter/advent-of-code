@@ -71,15 +71,15 @@ Feel free to fork this repository and submit pull requests if you have improveme
 | 20 | RITHVIK RAO GANDRA | 1 | 17 |
 | 21 | Sundar R | 0 | 0 |
 | 22 | Pranjal Srivastava | 0 | 0 |
-| 23 | KANISHK GORANA | 0 | 0 |
+| 23 | NISHANTH REDDY R | 0 | 0 |
 | 24 | Aahnik Daw | 0 | 0 |
-| 25 | VENKATASAIPRANAV MOPARTHI | 0 | 0 |
-| 26 | Chirag Karthik p | 0 | 0 |
-| 27 | GOKULCHINNA PAKALAPATI | 0 | 0 |
-| 28 | Anonymous | 0 | 0 |
-| 29 | NISHANTH REDDY R | 0 | 0 |
-| 30 | Mohansashank Prayaga | 0 | 0 |
-| 31 | LOKAVEERASHESHASAITEJA GANTASALA | 0 | 0 |
-| 32 | Anonymous | 0 | 0 |
+| 25 | KANISHK GORANA | 0 | 0 |
+| 26 | VENKATASAIPRANAV MOPARTHI | 0 | 0 |
+| 27 | Anonymous | 0 | 0 |
+| 28 | Mohansashank Prayaga | 0 | 0 |
+| 29 | LOKAVEERASHESHASAITEJA GANTASALA | 0 | 0 |
+| 30 | Chirag Karthik p | 0 | 0 |
+| 31 | Anonymous | 0 | 0 |
+| 32 | GOKULCHINNA PAKALAPATI | 0 | 0 |
 <!-- AOC-STATS-END -->
 
