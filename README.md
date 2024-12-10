@@ -49,8 +49,8 @@ Feel free to fork this repository and submit pull requests if you have improveme
 
 | Rank | Name | Stars | Points |
 |------|------|-------|--------|
-| 1 | r2d2butbetter | 20 | 557 |
-| 2 | Gaurav Gautam | 18 | 563 |
+| 1 | Gaurav Gautam | 20 | 625 |
+| 2 | r2d2butbetter | 20 | 557 |
 | 3 | Sambhav | 18 | 540 |
 | 4 | Revanth Kumar Dompaka | 16 | 468 |
 | 5 | DHRUV SUNILKUMAR PATEL | 12 | 284 |
@@ -69,17 +69,17 @@ Feel free to fork this repository and submit pull requests if you have improveme
 | 18 | SREEKAR KOTHAPALLI | 1 | 22 |
 | 19 | Anonymous | 1 | 21 |
 | 20 | RITHVIK RAO GANDRA | 1 | 17 |
-| 21 | Anonymous | 0 | 0 |
-| 22 | Sundar R | 0 | 0 |
-| 23 | Chirag Karthik p | 0 | 0 |
-| 24 | VENKATASAIPRANAV MOPARTHI | 0 | 0 |
-| 25 | Aahnik Daw | 0 | 0 |
-| 26 | GOKULCHINNA PAKALAPATI | 0 | 0 |
-| 27 | Anonymous | 0 | 0 |
-| 28 | Mohansashank Prayaga | 0 | 0 |
-| 29 | LOKAVEERASHESHASAITEJA GANTASALA | 0 | 0 |
-| 30 | Pranjal Srivastava | 0 | 0 |
-| 31 | KANISHK GORANA | 0 | 0 |
-| 32 | NISHANTH REDDY R | 0 | 0 |
+| 21 | Aahnik Daw | 0 | 0 |
+| 22 | KANISHK GORANA | 0 | 0 |
+| 23 | Pranjal Srivastava | 0 | 0 |
+| 24 | NISHANTH REDDY R | 0 | 0 |
+| 25 | Anonymous | 0 | 0 |
+| 26 | Sundar R | 0 | 0 |
+| 27 | Mohansashank Prayaga | 0 | 0 |
+| 28 | LOKAVEERASHESHASAITEJA GANTASALA | 0 | 0 |
+| 29 | VENKATASAIPRANAV MOPARTHI | 0 | 0 |
+| 30 | Anonymous | 0 | 0 |
+| 31 | GOKULCHINNA PAKALAPATI | 0 | 0 |
+| 32 | Chirag Karthik p | 0 | 0 |
 <!-- AOC-STATS-END -->
 
