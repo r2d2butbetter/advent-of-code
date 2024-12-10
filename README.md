@@ -23,8 +23,10 @@ The repo is organized day-wise, with each day's solution contained in its own di
 | 4   | [Day 4 Challenge](https://adventofcode.com/2024/day/4) | [solution.py](./day04/day4.py) |
 | 5   | [Day 5 Challenge](https://adventofcode.com/2024/day/5) | [solution.py](./day05/day5.py) |
 | 6   | [Day 6 Challenge](https://adventofcode.com/2024/day/6) | [solution.py](./day06/day6.py) |
-| 7   | [Day 6 Challenge](https://adventofcode.com/2024/day/7) | [solution.py](./day06/day7.py) |
-| 8   | [Day 6 Challenge](https://adventofcode.com/2024/day/8) | [solution.py](./day06/day8.py) |
+| 7   | [Day 7 Challenge](https://adventofcode.com/2024/day/7) | [solution.py](./day07/day7.py) |
+| 8   | [Day 8 Challenge](https://adventofcode.com/2024/day/8) | [solution.py](./day08/day8.py) |
+| 9   | [Day 9 Challenge](https://adventofcode.com/2024/day/9) | [solution.py](./day09/day9.py) |
+| 10   | [Day 10 Challenge](https://adventofcode.com/2024/day/10) | [solution.py](./day10/day10.py) |
 
 and so on...
 
