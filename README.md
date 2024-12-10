@@ -69,17 +69,17 @@ Feel free to fork this repository and submit pull requests if you have improveme
 | 18 | SREEKAR KOTHAPALLI | 1 | 22 |
 | 19 | Anonymous | 1 | 21 |
 | 20 | RITHVIK RAO GANDRA | 1 | 17 |
-| 21 | Chirag Karthik p | 0 | 0 |
-| 22 | Pranjal Srivastava | 0 | 0 |
+| 21 | NISHANTH REDDY R | 0 | 0 |
+| 22 | LOKAVEERASHESHASAITEJA GANTASALA | 0 | 0 |
 | 23 | Anonymous | 0 | 0 |
 | 24 | Mohansashank Prayaga | 0 | 0 |
-| 25 | LOKAVEERASHESHASAITEJA GANTASALA | 0 | 0 |
-| 26 | Anonymous | 0 | 0 |
-| 27 | VENKATASAIPRANAV MOPARTHI | 0 | 0 |
-| 28 | KANISHK GORANA | 0 | 0 |
-| 29 | Aahnik Daw | 0 | 0 |
-| 30 | Sundar R | 0 | 0 |
-| 31 | NISHANTH REDDY R | 0 | 0 |
-| 32 | GOKULCHINNA PAKALAPATI | 0 | 0 |
+| 25 | Anonymous | 0 | 0 |
+| 26 | KANISHK GORANA | 0 | 0 |
+| 27 | Aahnik Daw | 0 | 0 |
+| 28 | VENKATASAIPRANAV MOPARTHI | 0 | 0 |
+| 29 | Sundar R | 0 | 0 |
+| 30 | Chirag Karthik p | 0 | 0 |
+| 31 | GOKULCHINNA PAKALAPATI | 0 | 0 |
+| 32 | Pranjal Srivastava | 0 | 0 |
 <!-- AOC-STATS-END -->
 
