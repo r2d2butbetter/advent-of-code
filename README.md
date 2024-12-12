@@ -53,7 +53,7 @@ Feel free to fork this repository and submit pull requests if you have improveme
 | 2 | Sambhav | 22 | 661 |
 | 3 | r2d2butbetter | 22 | 618 |
 | 4 | Revanth Kumar Dompaka | 21 | 617 |
-| 5 | DHRUV SUNILKUMAR PATEL | 15 | 368 |
+| 5 | DHRUV SUNILKUMAR PATEL | 16 | 395 |
 | 6 | Anonymous | 10 | 242 |
 | 7 | Ritovan03 | 8 | 216 |
 | 8 | Nooberd-Incompat | 6 | 140 |
@@ -69,17 +69,17 @@ Feel free to fork this repository and submit pull requests if you have improveme
 | 18 | SREEKAR KOTHAPALLI | 1 | 22 |
 | 19 | Anonymous | 1 | 21 |
 | 20 | RITHVIK RAO GANDRA | 1 | 17 |
-| 21 | VENKATASAIPRANAV MOPARTHI | 0 | 0 |
-| 22 | Mohansashank Prayaga | 0 | 0 |
-| 23 | NISHANTH REDDY R | 0 | 0 |
-| 24 | Chirag Karthik p | 0 | 0 |
-| 25 | LOKAVEERASHESHASAITEJA GANTASALA | 0 | 0 |
-| 26 | KANISHK GORANA | 0 | 0 |
-| 27 | Anonymous | 0 | 0 |
-| 28 | Sundar R | 0 | 0 |
-| 29 | GOKULCHINNA PAKALAPATI | 0 | 0 |
-| 30 | Pranjal Srivastava | 0 | 0 |
-| 31 | Aahnik Daw | 0 | 0 |
+| 21 | LOKAVEERASHESHASAITEJA GANTASALA | 0 | 0 |
+| 22 | GOKULCHINNA PAKALAPATI | 0 | 0 |
+| 23 | Anonymous | 0 | 0 |
+| 24 | VENKATASAIPRANAV MOPARTHI | 0 | 0 |
+| 25 | Chirag Karthik p | 0 | 0 |
+| 26 | Pranjal Srivastava | 0 | 0 |
+| 27 | NISHANTH REDDY R | 0 | 0 |
+| 28 | Mohansashank Prayaga | 0 | 0 |
+| 29 | Sundar R | 0 | 0 |
+| 30 | Aahnik Daw | 0 | 0 |
+| 31 | KANISHK GORANA | 0 | 0 |
 | 32 | Anonymous | 0 | 0 |
 <!-- AOC-STATS-END -->
 
