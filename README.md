@@ -49,9 +49,9 @@ Feel free to fork this repository and submit pull requests if you have improveme
 
 | Rank | Name | Stars | Points |
 |------|------|-------|--------|
-| 1 | Gaurav Gautam | 24 | 750 |
-| 2 | Sambhav | 24 | 724 |
-| 3 | r2d2butbetter | 24 | 679 |
+| 1 | r2d2butbetter | 28 | 804 |
+| 2 | Gaurav Gautam | 24 | 750 |
+| 3 | Sambhav | 24 | 724 |
 | 4 | Revanth Kumar Dompaka | 22 | 649 |
 | 5 | DHRUV SUNILKUMAR PATEL | 17 | 423 |
 | 6 | Anonymous | 10 | 242 |
@@ -70,16 +70,16 @@ Feel free to fork this repository and submit pull requests if you have improveme
 | 19 | Anonymous | 1 | 21 |
 | 20 | RITHVIK RAO GANDRA | 1 | 17 |
 | 21 | Anonymous | 0 | 0 |
-| 22 | Chirag Karthik p | 0 | 0 |
-| 23 | VENKATASAIPRANAV MOPARTHI | 0 | 0 |
-| 24 | Sundar R | 0 | 0 |
+| 22 | KANISHK GORANA | 0 | 0 |
+| 23 | LOKAVEERASHESHASAITEJA GANTASALA | 0 | 0 |
+| 24 | VENKATASAIPRANAV MOPARTHI | 0 | 0 |
 | 25 | Anonymous | 0 | 0 |
-| 26 | Aahnik Daw | 0 | 0 |
+| 26 | Sundar R | 0 | 0 |
 | 27 | Pranjal Srivastava | 0 | 0 |
-| 28 | NISHANTH REDDY R | 0 | 0 |
-| 29 | KANISHK GORANA | 0 | 0 |
+| 28 | Aahnik Daw | 0 | 0 |
+| 29 | Mohansashank Prayaga | 0 | 0 |
 | 30 | GOKULCHINNA PAKALAPATI | 0 | 0 |
-| 31 | LOKAVEERASHESHASAITEJA GANTASALA | 0 | 0 |
-| 32 | Mohansashank Prayaga | 0 | 0 |
+| 31 | Chirag Karthik p | 0 | 0 |
+| 32 | NISHANTH REDDY R | 0 | 0 |
 <!-- AOC-STATS-END -->
 
