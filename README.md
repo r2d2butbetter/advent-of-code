@@ -2,6 +2,8 @@
 
 Welcome to my solutions for the Advent of Code 2024! This repository contains my personal solutions to the coding challenges presented in the Advent of Code event for the year 2024.
 
+__Note:__ I stopped doing the questions after day 16, as they got hard and uninteresting to me.
+
 ## What is Advent of Code
 
 [Advent of Code](https://adventofcode.com/) is an annual coding event that takes place in December. Every day from December 1st to December 25th, a new programming challenge is released. These challenges are a great way to improve your coding skills and have fun solving problems.
@@ -27,8 +29,13 @@ The repo is organized day-wise, with each day's solution contained in its own di
 | 8   | [Day 8 Challenge](https://adventofcode.com/2024/day/8) | [solution.py](./day08/day8.py) |
 | 9   | [Day 9 Challenge](https://adventofcode.com/2024/day/9) | [solution.py](./day09/day9.py) |
 | 10   | [Day 10 Challenge](https://adventofcode.com/2024/day/10) | [solution.py](./day10/day10.py) |
+| 11   | [Day 11 Challenge](https://adventofcode.com/2024/day/11) | [solution.py](./day06/day11.py) |
+| 12  | [Day 12 Challenge](https://adventofcode.com/2024/day/12) | [solution.py](./day07/day12.py) |
+| 13  | [Day 13 Challenge](https://adventofcode.com/2024/day/13) | [solution.py](./day08/day13.py) |
+| 14  | [Day 14 Challenge](https://adventofcode.com/2024/day/14) | [solution.py](./day09/day14.py) |
+| 15   | [Day 15 Challenge](https://adventofcode.com/2024/day/15) | [solution.py](./day10/day15.py) |
+| 16   | [Day 16 Challenge](https://adventofcode.com/2024/day/16) | [solution.py](./day10/day16.py) |
 
-and so on...
 
 ## How to Run
 
@@ -43,7 +50,7 @@ Replace `XX` with the day number you want to run.
 ## Contributing
 Feel free to fork this repository and submit pull requests if you have improvements or alternative solutions. Contributions are always welcome!
 
-
+Below stats are last updated on 20th december 2024, post which I disabled the workflow.
 <!-- AOC-STATS-START -->
 ## Advent of Code Stats
 
